@@ -41,7 +41,7 @@ class Student {
        this.gpa = gpa;
        this.courses = courses
        this.courses = courses;
-   }
+   }   
 
    printGPA() {
        console.log(this.gpa).toString();
